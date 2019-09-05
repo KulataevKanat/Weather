@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="cancel_label">Отмена</string>
+    <string name="store_label">Хранилище</string>
+    <string name="license_title">Лицензия</string>
+    <string name="libraries_title">Библиотека &amp; Ресурсы</string>
+    <string name="developer_info_title">Информация разработчика</string>
+    <string name="design_api_title">Дизайн &amp; API</string>
+    <string name="application_info_title">Информация о приложении</string>
+    <string name="application_info_text" />
+    <string name="current_label">Current</string>
+    <string name="humidity_label">Влажность</string>
+    <string name="wind_label">Ветер</string>
+    <string name="next_4_days_hourly">Следующие 4 дня/час</string>
+    <string name="next_15_days_label">Следующие 15 дней</string>
+    <string name="search_for_a_city_label">Поиск города</string>
+    <string name="zero_label">0%d</string>
+    <string name="wind_unit_label">%.0f км/ч</string>
+    <string name="openweathermap_api_key_label">OpenWeatherMap API Key</string>
+    <string name="api_key_description">Для использования приложения необходимо предоставить ключ API. Это бесплатно. Пожалуйста, откройте ссылку ниже и создайте аккаунт. После этого вы можете получить ключ API.</string>
+    <string name="get_api_key_label">получить API ключ</string>
+    <string name="api_key_label">API ключ</string>
+    <string name="english_label" translatable="false">English</string>
+    <string name="russian_label" translatable="false">Русский</string>
+    <string name="search_label">Поиск</string>
+    <string name="no_internet_message">Пожалуйста проверьте подключение к Интернету</string>
+    <string name="no_city_found_message">Город с таким именем не найден</string>
+    <string name="invalid_api_key_message">Ключ API недействителен.</string>
+    <string name="network_exception_message">Проблема с сетевым подключением</string>
+    <string name="retry_label">Повторить</string>
+    <string name="ok_label">OK</string>
+    <string name="night_mode_label">Ночная тема</string>
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextViewInColoredCard">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="SubTextViewInColoredCard">
+        <item name="android:textColor">@color/grey_10</item>
+    </style>
+
+    <style name="IconInColoredCard">
+        <item name="android:tint">@android:color/white</item>
+    </style>
+
+    <style name="TempTextView">
+        <item name="android:textSize">70sp</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style>
+
+    <style name="DescriptionTextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style>
+
+    <style name="HumidityTextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style>
+
+    <style name="WindSpeedTextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style>
+
+    <style name="HeadlineTextStyle">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MaterialSearchViewStyle">
+        <item name="searchBackground">?attr/colorPrimary</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">@android:color/black</item>
+
+    </style>
+</resources>
+
